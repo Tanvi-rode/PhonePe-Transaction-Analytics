@@ -3,9 +3,9 @@
 Interactive Power BI dashboard analyzing digital payment transactions
 across months, services, user segments, and payment status.
 
-![Dashboard](images/dashboard.png)
+![Dashboard]("C:\Users\PERSONAL\OneDrive\Desktop\PhonePe-Transaction-Analysis-PowerBI\image\dashboard.png")
 
-📄 [View Dashboard PDF](report/PhonePe_Dashboard.pdf)
+📄 [View Dashboard PDF]("C:\Users\PERSONAL\OneDrive\Desktop\PhonePe-Transaction-Analysis-PowerBI\report\PhonePe_Transaction_Analytics_Dashboard_Final.pdf")
 
 ## Objective
 Understand transaction trends, success rates, and user behavior
@@ -28,11 +28,16 @@ to support data-driven decisions.
 Power BI, Power Query, DAX, Data Visualization
 
 ## Key Insights
-- [Write 3-4 findings from your dashboard]
+-  Transaction Growth: Month-over-month transaction growth reached 9.0%.
+-  Highest Transaction Month: July recorded the highest transaction volume.
+-  User Demographics: Millennials represented the largest user segment. 
+-  Service Analysis: Loans accounted for the highest transaction volume.
+-  ]Transaction Pattern: Weekday transactions were significantly higher than weekend
+transactions
 
 ## Files
 - `PhonePe_Dashboard.pbix`: Power BI file
-- `dataset/`: data used
+- `data/`: data used
 - `images/`: dashboard screenshot
 - `report/`: PDF export
 
