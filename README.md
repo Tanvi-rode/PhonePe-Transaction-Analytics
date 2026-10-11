@@ -5,7 +5,7 @@ across months, services, user segments, and payment status.
 
 ![Dashboard](image)
 
-📄 [View Dashboard PDF]("C:\Users\PERSONAL\OneDrive\Desktop\PhonePe-Transaction-Analysis-PowerBI\report\PhonePe_Transaction_Analytics_Dashboard_Final.pdf")
+📄 [View Dashboard PDF](report)
 
 ## Objective
 Understand transaction trends, success rates, and user behavior
