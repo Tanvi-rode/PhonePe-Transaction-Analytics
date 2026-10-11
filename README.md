@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analyzing digital payment transactions
 across months, services, user segments, and payment status.
 
-![Dashboard](image)
+![Dashboard](image/dashboard.png)
 
 📄 [View Dashboard PDF]("C:\Users\PERSONAL\OneDrive\Desktop\PhonePe-Transaction-Analysis-PowerBI\report\PhonePe_Transaction_Analytics_Dashboard_Final.pdf")
 
